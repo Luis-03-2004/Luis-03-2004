@@ -32,7 +32,7 @@ Technical professional and Computer Engineering student (9th semester), currentl
 ---
 
 ### GitHub Metrics
-![Luis-03-2004 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-03-2004&show_icons=true&theme=tokyonight&hide_border=true)
+![Luis-03-2004 GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Luis-03-2004&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
