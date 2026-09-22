@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student | Full Stack Developer Intern at AmoraDev
 
-Technical professional and Computer Engineering student (9th semester), currently working as a Full Stack Developer Intern at AmoraDev with a focus on the PHP/Laravel ecosystem. Dedicated to building scalable backend systems, optimizing cloud infrastructure, and exploring robust enterprise patterns in Java.
+Technical professional and Computer Engineering student (10th semester), currently working as a Full Stack Developer Intern at AmoraDev with a focus on the PHP/Laravel ecosystem. Dedicated to building scalable backend systems, optimizing cloud infrastructure, and exploring robust enterprise patterns in Java.
 
 ---
 
